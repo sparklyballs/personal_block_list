@@ -1,7 +1,7 @@
 aax-eu.amazon-adsystem.com
 ads.livesexsells.com
 api.adlaboratory.com
-api.thehun.net/ads
+api.thehun.net
 banman.iafd.com
 content2.sexykittenporn.com
 content3.sexykittenporn.com
@@ -18,5 +18,5 @@ ads.exoclick.com
 poetry.literotica.com
 www.allasiancams.com
 www.myfreecams.com
-www.myfreecams.com/banners
 www.pornnerdnetwork.com
+myfreecams.com
