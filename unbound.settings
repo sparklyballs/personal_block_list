@@ -1,0 +1,14 @@
+num-threads: 2
+msg-cache-slabs: 8
+rrset-cache-slabs: 8
+infra-cache-slabs: 8
+key-cache-slabs: 8
+so-rcvbuf: 1m
+so-sndbuf: 1m
+# outgoing-range: 462
+# so-reuseport: yes
+infra-host-ttl: 900
+infra-lame-ttl: 900
+unwanted-reply-threshold: 10000
+cache-min-ttl: 3600
+val-clean-additional: yes
