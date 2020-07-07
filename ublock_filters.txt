@@ -3,3 +3,5 @@
 ||assets.thehun.net/banners/chaturbate/*$subdocument
 ||assets.thehun.net/banners/thehun/gamelink/*$image
 
+! 07/07/2020 https://thehun.net
+||cdn-assets.thehun.net/banners/desiresexe/*$image
