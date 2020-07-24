@@ -5,3 +5,5 @@
 
 ! 07/07/2020 https://thehun.net
 ||cdn-assets.thehun.net/banners/desiresexe/*$image
+! 24/07/2020 https://thehun.net
+||cdn-assets.thehun.net/banners/desiresexe/*$image
