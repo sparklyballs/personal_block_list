@@ -11,4 +11,3 @@
 ! 15/08/2020 https://thehun.net
 ||cdn-assets.thehun.net/banners/vrconk/$image
 
-||www.otsnews.co.uk/linkout/*$image
