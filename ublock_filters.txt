@@ -14,3 +14,5 @@
 ! 2021-04-27 https://thehun.net
 ||thehun.net##video
 
+! 2021-04-27 https://hosted.thehun.net
+||hosted.thehun.net##video
