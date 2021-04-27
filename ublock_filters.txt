@@ -11,3 +11,6 @@
 ! 15/08/2020 https://thehun.net
 ||cdn-assets.thehun.net/banners/vrconk/$image
 
+! 2021-04-27 https://thehun.net
+thehun.net##video
+
