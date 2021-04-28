@@ -16,3 +16,6 @@
 
 ! 2021-04-27 https://hosted.thehun.net
 ||hosted.thehun.net##video
+
+! 2021-04-28 https://www.otsnews.co.uk
+||www.otsnews.co.uk/wp-content/uploads/2020/10/newsletter.jpg$image
