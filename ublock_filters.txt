@@ -34,3 +34,5 @@
 ||www.otsnews.co.uk/wp-content/uploads/2021/04/HIBanner.png$image
 ||www.otsnews.co.uk/wp-content/uploads/2019/05/720X90-MIGHTY.jpg$image
 ||www.otsnews.co.uk/wp-content/uploads/2021/02/720x90px-OTS-banner-scaled.jpg$image
+||www.otsnews.co.uk/wp-content/uploads/2018/07/442958B6-78DA-490F-9AF7-474C1022F788.jpeg$image
+||www.otsnews.co.uk/wp-content/uploads/2016/05/Southport-Bouncy-castles-720.jpg$image
