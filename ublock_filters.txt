@@ -19,3 +19,9 @@
 
 ! 2021-04-28 https://www.otsnews.co.uk
 ||www.otsnews.co.uk/wp-content/uploads/2020/10/newsletter.jpg$image
+
+! 2021-04-28 https://www.otsnews.co.uk
+||www.otsnews.co.uk/wp-content/uploads/2020/01/FCD9995E-3203-4E53-A0C4-A2562A291A2E.jpeg$image
+||www.otsnews.co.uk/wp-content/uploads/2021/01/125261891_869805943823413_3070622483710152434_n.jpg$image
+||www.otsnews.co.uk/wp-content/uploads/2019/04/A514EA20-AD21-4F2B-BBF8-91AE2B82FD12.jpeg$image
+||www.otsnews.co.uk/wp-content/uploads/2020/12/ajbanner.gif$image
