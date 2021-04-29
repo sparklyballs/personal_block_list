@@ -31,3 +31,7 @@
 ||www.otsnews.co.uk/wp-content/uploads/2021/02/150x150-OTS-ad.jpg$image
 ||www.otsnews.co.uk/wp-content/uploads/2021/02/720x90px-OTS-banner-scaled.jpg$image
 ||www.otsnews.co.uk/wp-content/uploads/2021/04/HIBanner.png$image
+
+! 2021-04-29 https://thehun.net
+thehun.net##.hidden-xs.adblock > ad.cube > [href^="http://refer.ccbill.com/cgi-bin/clicks.cgi"] > video
+thehun.net##.desktop.cube > [href^="http://refer.ccbill.com/cgi-bin/clicks.cgi"] > video
