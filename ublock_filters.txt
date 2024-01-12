@@ -1,3 +1,5 @@
+! Title: Sparklyballs Personal Block List
+
 ! 06/07/2020 https://thehun.net
 ||cdn-assets.thehun.net/banners/fightpulse/*$image
 ||assets.thehun.net/banners/chaturbate/*$subdocument
