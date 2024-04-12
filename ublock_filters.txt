@@ -37,3 +37,6 @@
 ! 2021-04-29 https://thehun.net
 thehun.net##.hidden-xs.adblock > ad.cube > [href^="http://refer.ccbill.com/cgi-bin/clicks.cgi"] > video
 thehun.net##.desktop.cube > [href^="http://refer.ccbill.com/cgi-bin/clicks.cgi"] > video
+
+! 2024-04-12
+||wifecrazy.com/banners/hun/wifecrazy.gif
